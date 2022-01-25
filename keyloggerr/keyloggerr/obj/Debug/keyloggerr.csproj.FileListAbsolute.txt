@@ -1,0 +1,7 @@
+c:\users\merve demir\source\repos\keyloggerr\keyloggerr\bin\Debug\keyloggerr.exe.config
+c:\users\merve demir\source\repos\keyloggerr\keyloggerr\bin\Debug\keyloggerr.exe
+c:\users\merve demir\source\repos\keyloggerr\keyloggerr\bin\Debug\keyloggerr.pdb
+c:\users\merve demir\source\repos\keyloggerr\keyloggerr\obj\Debug\keyloggerr.csproj.CoreCompileInputs.cache
+c:\users\merve demir\source\repos\keyloggerr\keyloggerr\obj\Debug\keyloggerr.exe
+c:\users\merve demir\source\repos\keyloggerr\keyloggerr\obj\Debug\keyloggerr.pdb
+C:\Users\Merve Demir\source\repos\keyloggerr\keyloggerr\obj\Debug\keyloggerr.csproj.AssemblyReference.cache
